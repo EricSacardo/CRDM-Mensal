@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f84c85a6-134a-426b-a965-7521f79406f5" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/exemplomvc-jaxrs-mysql/.idea/artifacts/produtomvc_war.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exemplomvc-jaxrs-mysql/.idea/artifacts/produtomvc_war_exploded.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exemplomvc-jaxrs-mysql/.idea/artifacts/sessao_war.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exemplomvc-jaxrs-mysql/.idea/artifacts/sessao_war_exploded.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exemplomvc-jaxrs-mysql/.idea/artifacts/produtomvc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/exemplomvc-jaxrs-mysql/.idea/artifacts/produtomvc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exemplomvc-jaxrs-mysql/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/exemplomvc-jaxrs-mysql/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exemplomvc-jaxrs-mysql/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/exemplomvc-jaxrs-mysql/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exemplomvc-jaxrs-mysql/out/artifacts/produtomvc/WEB-INF/classes/com/example/produtomvc/HelloResource.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exemplomvc-jaxrs-mysql/out/artifacts/produtomvc/WEB-INF/classes/com/example/produtomvc/ProdutoApplication.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exemplomvc-jaxrs-mysql/out/artifacts/produtomvc/WEB-INF/classes/com/example/produtomvc/controller/ProdutoController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exemplomvc-jaxrs-mysql/out/artifacts/produtomvc/WEB-INF/classes/com/example/produtomvc/controller/TipoProdutoController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exemplomvc-jaxrs-mysql/out/artifacts/produtomvc/WEB-INF/classes/com/example/produtomvc/dao/ProdutoDAO.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exemplomvc-jaxrs-mysql/out/artifacts/produtomvc/WEB-INF/classes/com/example/produtomvc/dao/TipoProdutoDAO.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exemplomvc-jaxrs-mysql/out/artifacts/produtomvc/WEB-INF/classes/com/example/produtomvc/factory/ConnectionFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exemplomvc-jaxrs-mysql/out/artifacts/produtomvc/WEB-INF/classes/com/example/produtomvc/model/Produto.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exemplomvc-jaxrs-mysql/out/artifacts/produtomvc/WEB-INF/classes/com/example/produtomvc/model/TipoProduto.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exemplomvc-jaxrs-mysql/out/artifacts/produtomvc/WEB-INF/lib/gson-2.8.6.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exemplomvc-jaxrs-mysql/out/artifacts/produtomvc/WEB-INF/lib/mysql-connector-java-8.0.23.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exemplomvc-jaxrs-mysql/out/artifacts/produtomvc/WEB-INF/lib/protobuf-java-3.11.4.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exemplomvc-jaxrs-mysql/out/artifacts/produtomvc/WEB-INF/web.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exemplomvc-jaxrs-mysql/out/artifacts/produtomvc/index.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exemplomvc-jaxrs-mysql/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/exemplomvc-jaxrs-mysql/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exemplomvc-jaxrs-mysql/produtomvc.iml" beforeDir="false" afterPath="$PROJECT_DIR$/exemplomvc-jaxrs-mysql/sessao.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exemplomvc-jaxrs-mysql/src/main/java/com/example/produtomvc/HelloResource.java" beforeDir="false" afterPath="$PROJECT_DIR$/exemplomvc-jaxrs-mysql/src/main/java/com/example/produtomvc/HelloResource.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exemplomvc-jaxrs-mysql/src/main/java/com/example/produtomvc/ProdutoApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/exemplomvc-jaxrs-mysql/src/main/java/com/example/produtomvc/SessaoApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exemplomvc-jaxrs-mysql/src/main/java/com/example/produtomvc/controller/ProdutoController.java" beforeDir="false" afterPath="$PROJECT_DIR$/exemplomvc-jaxrs-mysql/src/main/java/com/example/produtomvc/controller/SessaoControl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exemplomvc-jaxrs-mysql/src/main/java/com/example/produtomvc/controller/TipoProdutoController.java" beforeDir="false" afterPath="$PROJECT_DIR$/exemplomvc-jaxrs-mysql/src/main/java/com/example/produtomvc/controller/FilmeControl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exemplomvc-jaxrs-mysql/src/main/java/com/example/produtomvc/dao/ProdutoDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/exemplomvc-jaxrs-mysql/src/main/java/com/example/produtomvc/dao/SessaoDAO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exemplomvc-jaxrs-mysql/src/main/java/com/example/produtomvc/dao/TipoProdutoDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/exemplomvc-jaxrs-mysql/src/main/java/com/example/produtomvc/dao/FileDAO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exemplomvc-jaxrs-mysql/src/main/java/com/example/produtomvc/factory/ConnectionFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/exemplomvc-jaxrs-mysql/src/main/java/com/example/produtomvc/factory/ConnectionFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exemplomvc-jaxrs-mysql/src/main/java/com/example/produtomvc/model/Produto.java" beforeDir="false" afterPath="$PROJECT_DIR$/exemplomvc-jaxrs-mysql/src/main/java/com/example/produtomvc/model/Sessao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exemplomvc-jaxrs-mysql/src/main/java/com/example/produtomvc/model/TipoProduto.java" beforeDir="false" afterPath="$PROJECT_DIR$/exemplomvc-jaxrs-mysql/src/main/java/com/example/produtomvc/model/Filme.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exemplomvc-jaxrs-mysql/target/classes/com/example/produtomvc/HelloResource.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exemplomvc-jaxrs-mysql/target/classes/com/example/produtomvc/ProdutoApplication.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exemplomvc-jaxrs-mysql/target/classes/com/example/produtomvc/controller/ProdutoController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exemplomvc-jaxrs-mysql/target/classes/com/example/produtomvc/controller/TipoProdutoController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exemplomvc-jaxrs-mysql/target/classes/com/example/produtomvc/dao/ProdutoDAO.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exemplomvc-jaxrs-mysql/target/classes/com/example/produtomvc/dao/TipoProdutoDAO.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exemplomvc-jaxrs-mysql/target/classes/com/example/produtomvc/factory/ConnectionFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exemplomvc-jaxrs-mysql/target/classes/com/example/produtomvc/model/Produto.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exemplomvc-jaxrs-mysql/target/classes/com/example/produtomvc/model/TipoProduto.class" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/exemplomvc-jaxrs-mysql" />
+  </component>
+  <component name="ProjectId" id="1rlwhZBsdPNvKFGxcbU9wlfyNLw" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/exemplomvc-jaxrs-mysql" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f84c85a6-134a-426b-a965-7521f79406f5" name="Default Changelist" comment="" />
+      <created>1619564104462</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1619564104462</updated>
+      <workItem from="1619564106165" duration="451000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
